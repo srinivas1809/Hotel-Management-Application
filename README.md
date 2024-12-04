@@ -1,22 +1,14 @@
-# Hotel management and booking system using Android, Java
+# Hotel Management and Booking System  
 
-This is a comprehensive Hotel Management and Booking System built using Android Studio and Java. The application allows users to:
+A comprehensive **Hotel Management and Booking System** built using **Android Studio** and **Java**. This project simplifies the management and booking process for hotels with an intuitive user interface.  
 
-Search for available rooms based on their preferences.
-Make secure room bookings.
-Manage reservations effectively.
-View and modify customer details.
-The project leverages a user-friendly interface to streamline hotel management and enhance the booking experience for both customers and administrators.
+## Features  
+1. 🏨 **Room Availability Search**: Find available rooms based on user preferences.  
+2. 📅 **Secure Booking System**: Book rooms with confirmation and payment integration.  
+3. 👤 **User Profile Management**: View and update customer details.  
+4. 🛠️ **Admin Panel**: Manage reservations, room inventory, and customer information.  
 
-Technologies Used:
-
-Android Studio
-Java
-SQLite for local data storage (or mention other databases if applicable)
-Features:
-
-Room Availability Search
-Booking Confirmation and Payment Integration
-User Profile Management
-Admin Panel for Hotel Staff
-
+## Technologies Used  
+1. **Android Studio**  
+2. **Java**  
+3. **SQLite**
